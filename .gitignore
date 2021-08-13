@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv/
+/src/MultipleParticleSystem.py
+/src/Interaction.py
+/listings/
+/images/
+/data/
+/compressed_images/
+/.idea/
